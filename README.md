@@ -65,8 +65,29 @@ usage: see.py [-h] [--action ACTION] [--notified] [--language LANGUAGE]
 
 ```
 ### Examples of usage
+![example of java static analysis](https://github.com/gaopgx/cloudcomputingsocial/blob/master/example-of-code.PNG?raw=true)
 
+### Test code quaility for code-standard
+
+#### coverage
+run the coverage.sh for code coverage
+The minimum requirment is 90
+##todo
+
+
+
+#### CheckStyle
+run the CheckStyle for static analysis code quaility of code-standard
+##todo
+### Future Job
+coverity
+blackduck
+more language support
+csharp, python ....
 
 ### Reference
+
+
 ## Licence
+
 
